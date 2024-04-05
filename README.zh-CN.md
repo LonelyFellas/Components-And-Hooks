@@ -7,9 +7,21 @@ React-Components
 </p>
 
 ## 组件
-> 1. [react-snowstorm](https://github.com/burakcan/react-snowstorm) - React雪花效果的的组件(React).
+- [react-snowstorm](https://github.com/burakcan/react-snowstorm) - React雪花效果的的组件(React).
+  ```bash 
+  npm install react-snowstorm
+  ```
 
 ## 钩子
-> 1. [useWorker](https://github.com/alewin/useWorker) - ⚛️ useWorker() - 一个用`Web-Worker`处理任务的钩子(React).
-> 2. [useHotkeys](https://github.com/JohannesKlauss/react-hotkeys-hook) - 使用快捷键的钩子(React).
-> 3. [useQueryParams](https://github.com/pbeshai/use-query-params) -  通过URL参数来管理`React`的状态的钩子(React).
+- [useWorker](https://github.com/alewin/useWorker) - ⚛️ useWorker() - 一个用`Web-Worker`处理任务的钩子(React).
+  ```bash 
+  npm install --save @koale/useworker
+  ```
+- [useHotkeys](https://github.com/JohannesKlauss/react-hotkeys-hook) - 使用快捷键的钩子(React).
+  ```bash 
+  npm install react-hotkeys-hook
+  ```
+- [useQueryParams](https://github.com/pbeshai/use-query-params) -  通过URL参数来管理`React`的状态的钩子(React).
+  ```bash 
+  npm install use-query-params
+  ```
