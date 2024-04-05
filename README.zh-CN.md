@@ -7,9 +7,9 @@ React-Components
 </p>
 
 ## 组件
-> 1. [react-snowstorm](https://github.com/burakcan/react-snowstorm) - A Snow Effect component for React.
+> 1. [react-snowstorm](https://github.com/burakcan/react-snowstorm) - React雪花效果的的组件(React).
 
 ## 钩子
-> 1. [useWorker](https://github.com/alewin/useWorker) - ⚛️ useWorker() - A React Hook for Blocking-Free Background Tasks.
-> 2. [useHotkeys](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
-> 3. [useQueryParams](https://github.com/pbeshai/use-query-params) - React Hook for managing state in URL query parameters with easy serialization.
+> 1. [useWorker](https://github.com/alewin/useWorker) - ⚛️ useWorker() - 一个用`Web-Worker`处理任务的钩子(React).
+> 2. [useHotkeys](https://github.com/JohannesKlauss/react-hotkeys-hook) - 使用快捷键的钩子(React).
+> 3. [useQueryParams](https://github.com/pbeshai/use-query-params) -  通过URL参数来管理`React`的状态的钩子(React).
