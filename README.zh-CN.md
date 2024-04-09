@@ -11,6 +11,9 @@ React-Components
   ```bash 
   npm install react-snowstorm
   ```
+- [qrcode.react](https://github.com/zpao/qrcode.react) - 一个用于生成二维码的组件(React).
+  ```bash
+  npm install qrcode.react
 
 ## 钩子
 - [useWorker](https://github.com/alewin/useWorker) - ⚛️ useWorker() - 一个用`Web-Worker`处理任务的钩子(React).

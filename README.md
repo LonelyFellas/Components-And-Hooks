@@ -11,7 +11,10 @@ English | <a href='./README.zh-CN.md'>简体中文</a>
   ```bash 
   npm install react-snowstorm
   ```
-
+- [qrcode.react](https://github.com/zpao/qrcode.react) - A `<QRCode/>` component for use with React(React).<br/>
+  ```bash
+  npm install qrcode.react
+  ```
 ## Hooks
 - [useWorker](https://github.com/alewin/useWorker) - ⚛️ useWorker() - A React Hook for Blocking-Free Background Tasks(React).
   ```bash 
