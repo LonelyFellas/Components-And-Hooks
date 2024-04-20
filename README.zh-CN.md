@@ -14,6 +14,11 @@ React-Components
 - [qrcode.react](https://github.com/zpao/qrcode.react) - 一个用于生成二维码的组件(React).
   ```bash
   npm install qrcode.react
+- [mac-scrollbar](https://github.com/MinjieLiu/mac-scrollbar) - 一个Mac风格的滚动条组件(React) <br/>
+  ```bash
+  npm install mac-scrollbar
+
+  ```
 
 ## 钩子
 - [useWorker](https://github.com/alewin/useWorker) - ⚛️ useWorker() - 一个用`Web-Worker`处理任务的钩子(React).

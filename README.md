@@ -14,6 +14,10 @@ English | <a href='./README.zh-CN.md'>简体中文</a>
 - [qrcode.react](https://github.com/zpao/qrcode.react) - A `<QRCode/>` component for use with React(React).<br/>
   ```bash
   npm install qrcode.react
+- [mac-scrollbar](https://github.com/MinjieLiu/mac-scrollbar) - A customizable scrollbar component for macOS(React).<br/>
+  ```bash
+  npm install mac-scrollbar
+
   ```
 ## Hooks
 - [useWorker](https://github.com/alewin/useWorker) - ⚛️ useWorker() - A React Hook for Blocking-Free Background Tasks(React).
